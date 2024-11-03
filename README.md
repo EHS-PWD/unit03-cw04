@@ -17,7 +17,7 @@ Students will learn how to add video content to a webpage, using both a local vi
    ```
 
 #### **Step 3: Embed a Local Video with the `<video>` Tag**
-3. Visit [Pexels - Video website](https://www.pexels.com/videos/) and download a video. Make sure to place the video in a folder called `videos` within your `media-gallery` folder.
+3. Visit [Pexels - Video website](https://www.pexels.com/videos/) and download a video. Make sure to place the video in a folder called `videos` within your `media-gallery` folder. Your file structure should look like this:
 ```
    media-gallery/
    ├── video/
