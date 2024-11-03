@@ -20,7 +20,11 @@ Students will learn how to add video content to a webpage, using both a local vi
 3. Visit [Pexels - Video website](https://www.pexels.com/videos/) and download a video. Make sure to place the video in a folder called `videos` within your `media-gallery` folder. Your file structure should look like this:
 ```
    media-gallery/
-   ├── video/
+   │   ├── images/
+   │   ├── your-image-file.jpg
+   │   ├── your-image-file.jpg
+   │   └── your-image-file.jpg
+   ├── videos/
    │   └── your-video-file.mp4
    ├── iframe.html
    └── index.html
@@ -52,9 +56,14 @@ Students will learn how to add video content to a webpage, using both a local vi
    <p>This is an embedded video from YouTube.</p>
    ```
 
-#### **Step 6: Save and Preview**
-8. Save `iframe.html` and open it in a web browser to preview the local video and YouTube embed.
-9. You should see the both local video and Youtube video added below the iframe.
+#### **Step 5: Save and Preview**
+7. Save `iframe.html` and open it in a web browser to preview the local video and YouTube embed.
+8. You should see the both local video and Youtube video added below the iframe.
+
+#### **Step 6: Submit Your Work**
+9. Once you've confirmed that the videos looks good, submit the following:
+   - The zipped media-gallery folder with the index.html file, iframe.html, images folder, and videos folder.
+   - Upload it to the classwork assignment on Google Classroom
 
 
 ### **Outcome**
