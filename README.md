@@ -11,7 +11,7 @@ Students will learn how to add video content to a webpage, using both a local vi
 1. Navigate to your `media-gallery` folder and open the `iframe.html` file in your text editor.
 
 #### **Step 2: Add a Section for Videos**
-2. Below the existing iframe for `iframe.html`, add a new heading and section to indicate the start of the video content:
+2. Below the existing iframe for `iframe.html`, add a new heading to indicate the start of the video content:
    ```html
    <h2>Video Content</h2>
    ```
