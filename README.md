@@ -62,9 +62,10 @@ Students will learn how to add video content to a webpage, using both a local vi
 
 #### **Step 6: Submit Your Work**
 9. Once you've confirmed that the videos looks good, submit the following:
-   - The zipped media-gallery folder with the index.html file, iframe.html, images folder, and videos folder.
-   - Upload it to the classwork assignment on Google Classroom
-
+   - Take a screeshot of your `iframe.html` page by holding `CMD+SHIFT+4`, then use your mouse to select the webpage. Add screenshot to the media-gallery folder.
+   - The zipped media-gallery folder with the index.html file, iframe.html, screenshot.png, images folder. **DO NOT INCLUDE THE VIDEO FOLDERS.**
+      - *The video folder is too large and it will not upload to Google Classroom.*
+   - Upload the zip file to the classwork assignment on Google Classroom
 
 ### **Outcome**
 - Students will have successfully embedded both a locally hosted video using the `<video>` tag and an online video from YouTube using the `<iframe>` tag, expanding their understanding of multimedia integration on a webpage.
